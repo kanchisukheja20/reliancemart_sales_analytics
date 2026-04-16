@@ -1,6 +1,6 @@
-# D-Mart Store — Sales Analysis (Power BI)
+# Reliance Mart — Sales Analysis (Power BI)
 
-**Short description:** Interactive Power BI report containing a complete sales analysis for D‑Mart. The report uses cleaned source tables: `Customers_cleaned`, `Inventory_Snapshot_cleaned`, `Products_cleaned`, `Returns_cleaned`, `Sales_Transactions`, and `Warehouses_cleaned`.
+**Short description:** Interactive Power BI report containing a complete sales analysis for Reliance Mart. The report uses cleaned source tables: `Customers_cleaned`, `Inventory_Snapshot_cleaned`, `Products_cleaned`, `Returns_cleaned`, `Sales_Transactions`, and `Warehouses_cleaned`.
 
 ---
 
@@ -20,7 +20,7 @@
 ---
 
 ## Introduction
-This repository contains an interactive Power BI report for D‑Mart store sales analysis. The report (file: `dmart_store/d mart test kanchi.pbix`) presents operational KPIs, visual analysis across states, brands and categories, and insights to support business decisions.
+This repository contains an interactive Power BI report for Reliance Mart store sales analysis. The report (file: `reliance_mart_store/d mart test kanchi.pbix`) presents operational KPIs, visual analysis across states, brands and categories, and insights to support business decisions.
 
 - **Purpose:** Provide stakeholders and analysts with an interactive dashboard to explore sales performance, profitability, and product/warehouse-level trends.
 - **Audience:** Business analysts, data analysts, product managers, and decision-makers.
@@ -46,7 +46,7 @@ Describe the datasets the report uses (placeholders below — replace with exact
 
 ## How to Open
 1. Install Power BI Desktop (free) from Microsoft if you don't already have it.
-2. Open `dmart_store/d mart test kanchi.pbix` in Power BI Desktop.
+2. Open `reliance_mart_store/d mart test kanchi.pbix` in Power BI Desktop.
 3. To refresh data, configure the data source credentials (if the report uses external databases or files).
 
 ---
@@ -85,7 +85,7 @@ Replace or expand this section with updated insights once you refresh or update 
 
 ## Project Structure
 ```
-├── dmart_store/
+├── reliance_mart_store/
 │   └── d mart test kanchi.pbix   # Power BI report (interactive dashboard)
 ├── data/                         # (Optional) raw/processed data used to build the PBIX
 ├── docs/                         # (Optional) exported report pages or documentation
